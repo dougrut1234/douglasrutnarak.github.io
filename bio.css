@@ -1,0 +1,54 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1360px;
+	height: auto;
+}
+
+#name {
+	font-family: 'Rokkitt', serif;
+	font-size: 100px;
+	font-weight: bold;
+	color: white;
+	background-color: #8A0808;
+	padding-top: 75px;
+	padding-left: 50px;
+	padding-right: 20px;
+	padding-bottom: 25px;
+	margin-top: -50px;
+	margin-left: -10px;
+	margin-right: -10px;
+	line-height: 110px;
+}
+
+#bio {
+	font-size: 36px;
+	font-family: 'Lato';
+	background-color: #9E9E9E;
+	margin-left: -10px;
+	margin-right: -10px;
+	padding-left: 600px;
+	margin-top: -110px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#doug {
+	width: 425px;
+	height: auto;
+	margin-top: 50px;
+	margin-left: 50px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+#my_bio {	
+	font-size: 20px;
+	font-family: 'Lato';
+	float: right;
+	margin-top: -525px;
+	margin-left: 550px;
+	margin-right: 100px;
+	line-height: 50px;
+	position: relative;
+
+}
